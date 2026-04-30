@@ -118,6 +118,3 @@ Total Score using Greedy: 140
 
 - Yeswanth nuvvula
 - sai vardhan kalva
-- mohan Karthikeya karnataka
-- lakshmi sathwik manda
-- omkareswar jaladi
